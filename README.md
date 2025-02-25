@@ -1,7 +1,11 @@
 # Day-1-Q-A
 The first assignment of the first PLP lesson
-1.Explain what software engineering is and discuss its importance in the technology industry
-software engineering is a branch of computer science used for developing, testing and maintaining software.
+
+1. Explain what software engineering is and discuss its importance in the technology industry
+
+Software engineering is a branch of computer science used for developing, testing and maintaining software.
+
+Importance:
 Reliability- it ensures software performs as expected without bias especially for critical applications like healthcare and finance. 
 Efficiency - it helps to optimize developer workflow while maintaining high quality standards.
 Scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
