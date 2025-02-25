@@ -86,7 +86,8 @@ Branching and Merging: Supports creating branches for new features and merging t
 Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
 7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
- Rapid technological advancement places considerable pressure on software engineers to stay current.
+   
+Rapid technological advancement places considerable pressure on software engineers to stay current.
  Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry.
 
 Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
