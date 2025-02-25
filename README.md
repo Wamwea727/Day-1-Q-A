@@ -57,6 +57,7 @@ Project Manager - Assembles and lead the software development team.
  - Delivers the complete software to the client and regularly check its performance.
    
 6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+   
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 
 Importance:
